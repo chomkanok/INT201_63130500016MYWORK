@@ -24,9 +24,9 @@ function findMax(){
 let num1 = random();
 let num2 = random();
 let num3 = random();
-console.log(The number of random = ${num1}, ${num2}, ${num3});
+console.log(`The number of random = ${num1}, ${num2}, ${num3}`);
 
 //find and print sum, minimun value, maximun value by using the function above
-console.log(Sum = ${findsum()});
-console.log(Min = ${findMin()});
-console.log(Max = ${findMax()});
+console.log(`Sum = ${findsum()}`);
+console.log(`Min = ${findMin()}`);
+console.log(`Max = ${findMax()}`);
