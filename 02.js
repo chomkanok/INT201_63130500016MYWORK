@@ -1,3 +1,4 @@
+//เเบบ1
 function sodiacCal(year) {
     return [
         'monkey', 'rooster', 'dog',
